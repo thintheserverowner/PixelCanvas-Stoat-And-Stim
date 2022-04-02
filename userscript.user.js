@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  stoat
 // @author       oralekin (stoatified by Jeck0_0)
+// @match        https://hot-potato.reddit.com/embed*
 // @icon         https://cdn.discordapp.com/attachments/413985144219893760/959922796966854706/Stoat.png
 // @grant        none
 // ==/UserScript==
