@@ -16,7 +16,7 @@ if (window.top !== window.self) {
                 Date.now = function() { return new Date().getTime(); }
             }
             const i = document.createElement("img");
-            i.src = "https://cdn.discordapp.com/attachments/959890599476076564/960195583073738772/indiesOverlayInscryption2.png";
+            i.src = "https://cdn.discordapp.com/attachments/413985144219893760/960222828815347782/indiesOverlayInscryption3-3000x6000.png";
             i.style = "position: absolute;left: 0;top: 0px;image-rendering: pixelated;width: 2000px;height: 1000px;";
             i.id = "mcss-overlay"
             i.setAttribute("vis",1)
